@@ -1,0 +1,26 @@
+{
+  "name": "nicekamrul.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio website for myself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niceKamrul/niceKamrul.github.io.git"
+  },
+  "keywords": [
+    "Portfolio Website",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "JavaScript"
+  ],
+  "author": "Kamrul Hasan.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niceKamrul/niceKamrul.github.io/issues"
+  },
+  "homepage": "https://github.com/niceKamrul/niceKamrul.github.io#readme"
+}
