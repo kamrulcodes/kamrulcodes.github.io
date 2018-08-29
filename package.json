@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/niceKamrul/niceKamrul.github.io/issues"
   },
-  "homepage": "https://github.com/niceKamrul/niceKamrul.github.io#readme"
+  "homepage": "https://github.com/niceKamrul/niceKamrul.github.io#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
 }
