@@ -69,7 +69,9 @@
   height: 250px;
   background: url("../img/portrait.jpg");
   border-radius: 50%;
-  border: solid 3px #eece1a; }
+  border: solid 3px #eece1a;
+  background-position: center;
+  background-size: 250px auto; }
 
 .menu .nav-item {
   transform: translate3d(600px, 0, 0);
@@ -193,7 +195,8 @@ main#home h1 {
   grid-area: bioimage;
   margin: auto;
   border-radius: 50%;
-  border: #eece1a 3px solid; }
+  border: #eece1a 3px solid;
+  width: 200px; }
 
 .about-info .bio {
   grid-area: bio;
